@@ -44,6 +44,7 @@ Step 6: Set up a start script
 	- Replace `yourvaluehere` with the username and password for Tone Analyzer
 		- You can find these in your Tone Analyzer service on Bluemix underneath
 			the credentials tab
+  ```
 
 Step 7: Run the app locally
 	- Run `npm install` to download the dependencies
