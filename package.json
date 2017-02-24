@@ -1,0 +1,19 @@
+{
+  "name": "bluemix-example",
+  "version": "1.0.0",
+  "description": "A simple nodejs project set up as a Bluemix app and utilizing the Watson Tone Analyzer service. ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emma Bostian",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cfenv": "^1.0.3",
+    "adaro": "^1.0.4",
+    "express": "^4.14.0",
+    "watson-developer-cloud": "^2.15.2"
+  }
+}
