@@ -1,0 +1,23 @@
+.main {
+  margin: 4rem 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+form {
+  width: 50rem;
+  margin: 4rem 0;
+}
+
+h3 {
+  margin-top: 4rem;
+}
+
+p {
+  margin: 0.5rem 0;
+}
+
+.etones {
+  margin: 1rem 0;
+}

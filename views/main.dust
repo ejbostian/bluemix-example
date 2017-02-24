@@ -1,0 +1,15 @@
+{>"layout"/}
+
+{<bodyContent}
+
+<h1>Basic Tone Analyzer</h1>
+<form class='bx--form' action="/result" method="post">
+  <fieldset class='bx--form__fieldset'>
+    <label for='text1' class='bx--form__label'>What is the meaning of life?</label>
+    <input id='text1' type='text' class='bx--text__input' name="response" placeholder='Enter a phrase to be analyzed'>
+  </fieldset>
+
+  <button class='bx--btn' type='submit'>Analyze Tone</button>
+</form>
+
+{/bodyContent}

@@ -1,0 +1,8 @@
+# Dependency directory
+node_modules
+
+# yarn
+yarn.lock
+
+#start script with env vars
+start.sh
