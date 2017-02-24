@@ -1,0 +1,20 @@
+{>"layout"/}
+
+{<bodyContent}
+
+<h2>Tone Data</h2>
+
+<h3>Emotional Tone</h3>
+<div class="etones">
+  <p>Anger: {angerScore}</p>
+  <p>Disgust: {disgustScore}</p>
+  <p>Fear: {fearScore}</p>
+  <p>Joy: {joyScore}</p>
+  <p>Sadness: {sadnessScore}</p>
+</div>
+
+<h3>Pure JSON</h3>
+<p>{tone}</p>
+
+
+{/bodyContent}
