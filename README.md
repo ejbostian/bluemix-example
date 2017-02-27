@@ -51,6 +51,5 @@ Step 7: Run the app locally
 	- The site will be available at the listed localhost address in the terminal
 
 Step 7: Push the app to Bluemix
-	- In the terminal, run `cf push {appname}`, replacing the `{appname}` with
-		the name of your app
+	- In the terminal, run `cf push`
 	- This will push the code of your app to Bluemix
